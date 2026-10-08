@@ -1,6 +1,6 @@
 {
   "dealership": "Maple Ridge Chrysler Jeep Dodge",
-  "generated_at": "2026-09-26T13:57:38",
+  "generated_at": "2026-10-08T14:41:25",
   "vehicle_count": 286,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "5XYZU3LB9HG488123",
       "stock": 14361026,
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/e05eef84bf18.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2017-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2017-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -18,14 +19,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Wrangler Sahara | 3.6L V6 | AC | NAVIGATION | TPMSin Maple Ridge",
       "vin": "1C4BJWEG7HL628257",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sahara",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/c114c058e828.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2017-Jeep-Wrangler-id14274718.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2017-Jeep-Wrangler-id14274718.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -33,8 +37,10 @@
       "odometer_km": 104461,
       "year": 2017,
       "make": "Jeep",
-      "model": "Wrangler Sahara",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Wrangler ",
@@ -50,7 +56,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Wrangler ",
@@ -66,7 +74,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Sportage ",
@@ -81,7 +91,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Audi Q5 ",
@@ -96,7 +108,9 @@
       "year": 2018,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Ford EcoSport ",
@@ -111,7 +125,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "EcoSport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano ",
@@ -126,7 +142,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota Corolla ",
@@ -141,7 +159,9 @@
       "year": 2018,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Atlas ",
@@ -156,7 +176,9 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Infiniti QX60 ",
@@ -171,13 +193,16 @@
       "year": 2019,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass North | 4X4 | HEATED SEATS | HEATED MIRRORS | HEATED STEERING | APPLE CARPLAYin Maple Ridge",
       "vin": "3C4NJDBB8KT674265",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/d9a20de44a6d.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2019-Jeep-Compass-id14375971.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2019-Jeep-Compass-id14375971.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -185,8 +210,10 @@
       "odometer_km": 73719,
       "year": 2019,
       "make": "Jeep",
-      "model": "Compass North",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass ",
@@ -202,13 +229,16 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Wrangler Rubicon | Led Lighting | Steel Bumpers | Remote Start | Heated Front Seats | Advanced Safety Groupin Maple Ridge",
       "vin": "1C4HJXFG8KW589974",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Rubicon",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/175a8a804566.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2019-Jeep-Wrangler-id14252499.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2019-Jeep-Wrangler-id14252499.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -216,8 +246,10 @@
       "odometer_km": 115419,
       "year": 2019,
       "make": "Jeep",
-      "model": "Wrangler Rubicon",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Wrangler ",
@@ -233,7 +265,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Stinger ",
@@ -248,7 +282,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Stinger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Porsche Cayenne ",
@@ -263,13 +299,16 @@
       "year": 2019,
       "make": "Porsche",
       "model": "Cayenne",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Big Horn | 3.6L V6 w/ Etorque | Front Heated Seats W/ Heated Steering Wheel | Power folding Mirrorsin Maple Ridge",
       "vin": "1C6RRFFGXKN760941",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/c4f338538a48.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2019-RAM-1500-id14322262.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2019-RAM-1500-id14322262.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -277,8 +316,10 @@
       "odometer_km": 108399,
       "year": 2019,
       "make": "RAM",
-      "model": "1500 Big Horn",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 ",
@@ -294,7 +335,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Buick Envision ",
@@ -309,7 +352,9 @@
       "year": 2020,
       "make": "Buick",
       "model": "Envision",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Blazer ",
@@ -322,13 +367,16 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Dodge Durango GT AWD | 3.6L V6 | Sunroof | 2ND Row Bench Seats w/ Rear DVD Entertainment | Heated Front Seatsin Maple Ridge",
       "vin": "1C4RDJDG1LC318737",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/018f1c971ef3.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2020-Dodge-Durango-id14329223.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2020-Dodge-Durango-id14329223.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -336,8 +384,10 @@
       "odometer_km": 102666,
       "year": 2020,
       "make": "Dodge",
-      "model": "Durango GT AWD",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Dodge Durango ",
@@ -353,7 +403,9 @@
       "year": 2020,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -368,7 +420,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Honda Civic Coupe ",
@@ -383,7 +437,9 @@
       "year": 2020,
       "make": "Honda",
       "model": "Civic Coupe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Jaguar XE ",
@@ -398,13 +454,16 @@
       "year": 2020,
       "make": "Jaguar",
       "model": "XE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Wrangler Sahara | AS IS!in Maple Ridge",
       "vin": "1C4HJXEN7LW177255",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sahara",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/107257b07bc8.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2020-Jeep-Wrangler-id14168097.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2020-Jeep-Wrangler-id14168097.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -412,8 +471,10 @@
       "odometer_km": 80970,
       "year": 2020,
       "make": "Jeep",
-      "model": "Wrangler Sahara",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Wrangler ",
@@ -429,7 +490,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sportage ",
@@ -444,13 +507,16 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 1500 Big Horn | 3.6L V6 | Off-Road Package | Heated Front Seats | Remote Start |in Maple Ridge",
       "vin": "1C6RRFFG3LN262453",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/7f650e137d01.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2020-RAM-1500-id14350773.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2020-RAM-1500-id14350773.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -458,8 +524,10 @@
       "odometer_km": 127676,
       "year": 2020,
       "make": "RAM",
-      "model": "1500 Big Horn",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 1500 ",
@@ -475,7 +543,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 3500 ",
@@ -491,7 +561,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 1500 ",
@@ -507,7 +579,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Malibu ",
@@ -522,7 +596,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet TrailBlazer ",
@@ -537,7 +613,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Malibu ",
@@ -552,7 +630,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 ",
@@ -567,7 +647,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Honda Passport ",
@@ -582,13 +664,16 @@
       "year": 2021,
       "make": "Honda",
       "model": "Passport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Cherokee Trailhawk | 4X4 | PANO ROOF | NAVI | LEATHER SEATS | HEATED STEERING | HEATED SEATS | AS IS |in Maple Ridge",
       "vin": "1C4PJMBX4MD113915",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Trailhawk",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/a8925dcee3ab.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2021-Jeep-Cherokee-id14036289.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2021-Jeep-Cherokee-id14036289.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -596,8 +681,10 @@
       "odometer_km": 135098,
       "year": 2021,
       "make": "Jeep",
-      "model": "Cherokee Trailhawk",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Cherokee ",
@@ -613,13 +700,16 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler Sport S | 4X4 | 3.6 PENTASTAR | UCONNECT 4C NAVI | SIRIUSXM TRAVELin Maple Ridge",
       "vin": "1C4HJXAGXMW833795",
       "stock": "NUMBER",
       "color": "Burgundy",
+      "trim": "Sport S",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/fe287b6f22d8.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2021-Jeep-Wrangler-id14111569.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2021-Jeep-Wrangler-id14111569.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -627,14 +717,17 @@
       "odometer_km": 85051,
       "year": 2021,
       "make": "Jeep",
-      "model": "Wrangler Sport S",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler Sport S | 3.6L V6 | UCONNECT | REMOTE ENTRY | LED LIGHTSin Maple Ridge",
       "vin": "1C4HJXAG4MW683411",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sport S",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/449bcda49313.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2021-Jeep-Wrangler-id14375970.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2021-Jeep-Wrangler-id14375970.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -642,8 +735,10 @@
       "odometer_km": 33711,
       "year": 2021,
       "make": "Jeep",
-      "model": "Wrangler Sport S",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -659,7 +754,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -675,7 +772,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 ",
@@ -691,7 +790,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 ",
@@ -707,7 +808,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Buick Encore GX ",
@@ -722,7 +825,9 @@
       "year": 2022,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Equinox ",
@@ -735,13 +840,16 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Grand Caravan SXTin Maple Ridge",
       "vin": "2C4RC1ZG4NR108221",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SXTin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/701b474fa5af.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2022-Chrysler-Grand_Caravan-id14421122.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2022-Chrysler-Grand_Caravan-id14421122.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -749,8 +857,10 @@
       "odometer_km": 77000,
       "year": 2022,
       "make": "Chrysler",
-      "model": "Grand Caravan SXTin Maple Ridge",
-      "condition": "used"
+      "model": "Grand Caravan",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Grand Caravan ",
@@ -766,7 +876,9 @@
       "year": 2022,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Dodge Challenger ",
@@ -782,7 +894,9 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Edge ",
@@ -797,7 +911,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -812,7 +928,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Tucson ",
@@ -828,13 +946,16 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Compass Limited | Sunroof | Heated Leather Seats | Remote start | Advanced Brake Asst. |in Maple Ridge",
       "vin": "3C4NJDCB2NT182883",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/a7c1fba4390c.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2022-Jeep-Compass-id14299910.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2022-Jeep-Compass-id14299910.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -842,8 +963,10 @@
       "odometer_km": 99390,
       "year": 2022,
       "make": "Jeep",
-      "model": "Compass Limited",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Compass ",
@@ -859,13 +982,16 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee Altitudein Maple Ridge",
       "vin": "1C4RJHAG9N8625486",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Altitudein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/1ddf5b2e2eac.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2022-Jeep-Grand_Cherokee-id14409831.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2022-Jeep-Grand_Cherokee-id14409831.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -873,8 +999,10 @@
       "odometer_km": 67502,
       "year": 2022,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitudein Maple Ridge",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee ",
@@ -890,13 +1018,16 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler Willys Sportin Maple Ridge",
       "vin": "1C4GJXAN3NW262940",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Willys Sportin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/af047f7e82ea.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2022-Jeep-Wrangler-id14030512.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2022-Jeep-Wrangler-id14030512.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -904,8 +1035,10 @@
       "odometer_km": 49408,
       "year": 2022,
       "make": "Jeep",
-      "model": "Wrangler Willys Sportin Maple Ridge",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler ",
@@ -921,7 +1054,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee ",
@@ -937,7 +1072,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -953,7 +1090,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -969,7 +1108,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Equinox ",
@@ -984,13 +1125,16 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Hornet GT | One Owner | No Accidents | All-wheel drive | Remote Start |in Maple Ridge",
       "vin": "ZACNDFAN1P3A05517",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/7762b5c76882.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2023-Dodge-Hornet-id13968601.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2023-Dodge-Hornet-id13968601.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -998,8 +1142,10 @@
       "odometer_km": 46075,
       "year": 2023,
       "make": "Dodge",
-      "model": "Hornet GT",
-      "condition": "used"
+      "model": "Hornet",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Hornet ",
@@ -1015,7 +1161,9 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Ford thor motor coach vegas ",
@@ -1031,7 +1179,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "thor motor coach vegas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Canyon ",
@@ -1046,7 +1196,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Santa Cruz ",
@@ -1062,13 +1214,16 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Cruz",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Cherokee Altitude | Leather Seats | Sunroof | Backup Camerain Maple Ridge",
       "vin": "1C4PJMMB7PD105779",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/8abac73ed49e.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2023-Jeep-Cherokee-id14162905.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2023-Jeep-Cherokee-id14162905.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1076,8 +1231,10 @@
       "odometer_km": 69716,
       "year": 2023,
       "make": "Jeep",
-      "model": "Cherokee Altitude",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Cherokee ",
@@ -1093,7 +1250,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Gladiator ",
@@ -1109,13 +1268,16 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee 4xe ",
       "vin": "1C4RJYB61P8814304",
       "stock": 13748297,
       "color": "Red",
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/4dc4f3f06206.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2023-Jeep-Grand_Cherokee_4xe.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2023-Jeep-Grand_Cherokee_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1124,8 +1286,10 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Gladiator ",
@@ -1141,7 +1305,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sorento ",
@@ -1156,7 +1322,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 ",
@@ -1171,7 +1339,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 ",
@@ -1187,7 +1357,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic ",
@@ -1201,7 +1373,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 ",
@@ -1217,7 +1391,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tundra ",
@@ -1232,7 +1408,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Buick Envision ",
@@ -1245,7 +1423,9 @@
       "year": 2024,
       "make": "Buick",
       "model": "Envision",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Buick Envision ",
@@ -1260,7 +1440,9 @@
       "year": 2024,
       "make": "Buick",
       "model": "Envision",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Trax ",
@@ -1273,7 +1455,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Trax ",
@@ -1286,7 +1470,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Chrysler Pacifica ",
@@ -1302,7 +1488,9 @@
       "year": 2024,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Chrysler Pacifica ",
@@ -1318,7 +1506,9 @@
       "year": 2024,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Durango ",
@@ -1334,12 +1524,15 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet R/T | TRACK PACK | KEYLESS ENTRY | PREMIUM SOUND | APPLE CARPLAYin Maple Ridge",
       "vin": "ZACPDFCW1R3A17829",
       "stock": "NUMBER",
+      "trim": "R/T",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/43fc47d556a8.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2024-Dodge-Hornet-id14388222.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2024-Dodge-Hornet-id14388222.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1347,8 +1540,10 @@
       "odometer_km": 13325,
       "year": 2024,
       "make": "Dodge",
-      "model": "Hornet R/T",
-      "condition": "used"
+      "model": "Hornet",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet ",
@@ -1363,7 +1558,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Durango ",
@@ -1379,7 +1576,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Elantra ",
@@ -1395,13 +1594,16 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Compass Sport | 3.6L V6 | 4X4 | APPLE CARPLAY | DEEP TINT | OFF ROADin Maple Ridge",
       "vin": "3C4NJDAN5RT577000",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/9e1e47b6a04d.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2024-Jeep-Compass-id14409829.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2024-Jeep-Compass-id14409829.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1409,8 +1611,10 @@
       "odometer_km": 20276,
       "year": 2024,
       "make": "Jeep",
-      "model": "Compass Sport",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Compass ",
@@ -1426,7 +1630,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -1442,13 +1648,16 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler 1 Owner | Freshly Serviced | AutoCanada Certifiedin Maple Ridge",
       "vin": "1C4PJXDG7RW355754",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "1 Owner",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/7b55b72f911f.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2024-Jeep-Wrangler-id13524230.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2024-Jeep-Wrangler-id13524230.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1456,8 +1665,10 @@
       "odometer_km": 33893,
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler 1 Owner",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -1471,7 +1682,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -1487,7 +1700,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Niro PHEV ",
@@ -1502,7 +1717,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Niro PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus NX ",
@@ -1517,7 +1734,9 @@
       "year": 2024,
       "make": "Lexus",
       "model": "NX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Eclipse Cross ",
@@ -1532,7 +1751,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR ",
@@ -1545,7 +1766,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
@@ -1560,7 +1783,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 2500 ",
@@ -1576,7 +1801,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -1590,7 +1817,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek ",
@@ -1605,7 +1834,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tacoma ",
@@ -1620,7 +1851,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Blazer EV ",
@@ -1635,7 +1868,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Blazer EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet TrailBlazer ",
@@ -1650,7 +1885,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Trax ",
@@ -1665,7 +1902,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Blazer EV ",
@@ -1680,7 +1919,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Blazer EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet TrailBlazer ",
@@ -1695,7 +1936,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Trax ",
@@ -1710,7 +1953,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco ",
@@ -1725,7 +1970,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco ",
@@ -1740,7 +1987,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Genesis G70 ",
@@ -1756,7 +2005,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Genesis G70 ",
@@ -1772,7 +2023,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "G70",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Infiniti QX60 ",
@@ -1787,7 +2040,9 @@
       "year": 2025,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Infiniti QX60 ",
@@ -1802,7 +2057,9 @@
       "year": 2025,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee L ",
@@ -1818,7 +2075,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Wrangler ",
@@ -1834,7 +2093,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee L ",
@@ -1850,7 +2111,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Wrangler ",
@@ -1866,12 +2129,15 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play ",
       "vin": "3N1CP5CV4SL476550",
       "stock": 14299909,
+      "trim": "Play",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/dfec4df43073.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2025-Nissan-Kicks_Play.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2025-Nissan-Kicks_Play.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1880,8 +2146,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Sentra ",
@@ -1894,12 +2162,15 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play ",
       "vin": "3N1CP5CV4SL476550",
       "stock": 14299909,
+      "trim": "Play",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/dfec4df43073.html",
       "source_url": "https://www.mapleridgechrysler.com/used/2025-Nissan-Kicks_Play.html",
       "dealer_url": "https://www.mapleridgechrysler.com/used/2025-Nissan-Kicks_Play.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1908,8 +2179,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Sentra ",
@@ -1924,7 +2197,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas Cross Sport ",
@@ -1939,7 +2214,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas Cross Sport ",
@@ -1954,7 +2231,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Audi Q7 ",
@@ -1969,7 +2248,9 @@
       "year": 2026,
       "make": "Audi",
       "model": "Q7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Audi Q7 ",
@@ -1984,7 +2265,9 @@
       "year": 2026,
       "make": "Audi",
       "model": "Q7",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -1999,7 +2282,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -2014,7 +2299,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravanin Maple Ridge",
@@ -2028,7 +2315,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravanin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica ",
@@ -2044,7 +2333,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybrid ",
@@ -2060,7 +2351,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacifica Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravanin Maple Ridge",
@@ -2074,7 +2367,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravanin Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica ",
@@ -2090,7 +2385,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybrid ",
@@ -2106,7 +2403,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacifica Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybrid ",
@@ -2122,7 +2421,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacifica Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -2138,7 +2439,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -2154,7 +2457,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -2170,7 +2475,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -2186,7 +2493,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -2202,7 +2511,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -2218,7 +2529,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 ",
@@ -2233,7 +2546,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 ",
@@ -2248,7 +2563,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -2264,7 +2581,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -2280,7 +2599,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -2296,7 +2617,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -2312,11 +2635,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Lin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Lin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/059c080b1b3c.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2325,8 +2651,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Maple Ridge",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer ",
@@ -2342,13 +2670,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer L ",
       "vin": "1C4SJSBP5TS193735",
       "stock": 14105665,
       "color": "Black",
+      "trim": "L",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/52d2d73eaf06.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2357,8 +2688,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer L",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Maple Ridge",
@@ -2372,7 +2705,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -2388,7 +2723,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -2404,7 +2741,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -2420,7 +2759,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -2436,7 +2777,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -2452,7 +2795,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -2468,11 +2813,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Lin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Lin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/059c080b1b3c.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2481,8 +2829,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Maple Ridge",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer ",
@@ -2498,13 +2848,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer L ",
       "vin": "1C4SJSBP5TS193735",
       "stock": 14105665,
       "color": "Black",
+      "trim": "L",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/52d2d73eaf06.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2513,8 +2866,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer L",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Maple Ridge",
@@ -2528,7 +2883,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -2544,13 +2901,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB25TT219514",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Laredoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/e8548df88905.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13378621.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13378621.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2559,14 +2919,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Maple Ridge",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee All New | 800km Range | Cable Free Hybrid | Test Drive Todayin Maple Ridge",
       "vin": "3C4PJMB28TT228238",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "All New",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/c599197dbe64.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13433730.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13433730.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2575,14 +2938,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee All New",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee All New | 800km Range | Cable Free Hybrid | Test Drive Todayin Maple Ridge",
       "vin": "3C4PJMB26TT228237",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "All New",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/2a7f04a00632.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13433731.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13433731.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2591,14 +2957,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee All New",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee All New | 800km Range | Cable Free Hybrid | Test Drive Todayin Maple Ridge",
       "vin": "3C4PJMB28TT229759",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "All New",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/97f81f1fe84c.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13490951.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13490951.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2607,14 +2976,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee All New",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee All New | 800km Range | Cable Free Hybrid | Test Drive Todayin Maple Ridge",
       "vin": "3C4PJMB26TT229758",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "All New",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/f977d69e8ead.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13496704.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13496704.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2623,14 +2995,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee All New",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee All New | 800km Range | Cable Free Hybrid | Test Drive Todayin Maple Ridge",
       "vin": "3C4PJMB24TT229760",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "All New",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/25cb5d3f31ae.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13720033.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13720033.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2639,14 +3014,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee All New",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB23TT228213",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Laredoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/0bce6ab92a52.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13753857.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13753857.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2655,14 +3033,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Maple Ridge",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee All New | 800km Range | Cable Free Hybrid | Test Drive Todayin Maple Ridge",
       "vin": "3C4PJMB22TT216201",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "All New",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/79fa3d8d33f7.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13799147.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13799147.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2671,14 +3052,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee All New",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee WJ205835in Maple Ridge",
       "vin": "3C4PJMB23TT269179",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "WJ205835in Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/21dbcc7c34c2.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13807968.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id13807968.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2687,14 +3071,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee WJ205835in Maple Ridge",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB21TT269178",
       "stock": "NUMBER",
       "color": "41",
+      "trim": "Laredoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d4e8f91b8d26.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14021059.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14021059.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2703,14 +3090,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Maple Ridge",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB24TT288159",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Laredoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/11eda9881a52.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14080346.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14080346.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2719,14 +3109,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Maple Ridge",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB28TT216123",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Laredoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/ab9b725955a3.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14190407.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14190407.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2735,14 +3128,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Maple Ridge",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB22TT273501",
       "stock": "NUMBER",
       "color": "41",
+      "trim": "Laredoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/db0492e87ce2.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14206858.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14206858.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2751,14 +3147,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Maple Ridge",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB22TT249277",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Laredoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/f13b80f1c410.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14206860.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14206860.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2767,14 +3166,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Maple Ridge",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB27TT269203",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Laredoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/799f883124f2.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14217190.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14217190.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2783,14 +3185,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Maple Ridge",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB20TT288160",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Laredoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/f3f2d5c17093.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14415112.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Cherokee-id14415112.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2799,8 +3204,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Maple Ridge",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -2816,13 +3223,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDAN3TT153242",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sport 4 x 4",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/a20b5dd3d437.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12630412.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12630412.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2832,14 +3242,17 @@
       "odometer_km": 2701,
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4 x 4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4x4 - 0% Financing OAC !!in Maple Ridge",
       "vin": "3C4NJDAN1TT153238",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/77be0a330911.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12742319.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12742319.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2848,14 +3261,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4x4 - 0% Financing OAC !!in Maple Ridge",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDAN1TT153241",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Sport 4 x 4",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/af916fa89eb2.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12742320.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12742320.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2864,14 +3280,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4 x 4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDAN1TT153787",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport 4 x 4",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/a3a34c7df276.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12742321.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12742321.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2880,14 +3299,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4 x 4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDAN5TT153792",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport 4 x 4",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/fc676e80631a.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12742328.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12742328.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2896,14 +3318,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4 x 4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDAN9TT153794",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport 4 x 4",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/35fc32008dab.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12742334.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12742334.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2912,14 +3337,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4 x 4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDAN3TT161339",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport 4 x 4",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/14edf5d4e771.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12779621.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12779621.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2928,14 +3356,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4 x 4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport Trim| From 0% OAC |in Maple Ridge",
       "vin": "3C4NJDAN4TT153234",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport Trim",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/9d0cc6d24c85.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12811796.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12811796.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2944,14 +3375,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport Trim",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDANXTT161340",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sport 4 x 4",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/7f39278f5237.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12811797.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12811797.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2960,14 +3394,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4 x 4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDAN8TT153236",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/afaf08822957.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12823175.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12823175.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2976,14 +3413,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDAN5TT153243",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sport 4 x 4",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/072c6a056027.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12977586.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id12977586.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2992,14 +3432,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4 x 4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDBN0TT182955",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "North 4 x 4",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/f20f13c9a464.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id13119077.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id13119077.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3008,14 +3451,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North 4 x 4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass North 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDBN4TT182960",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "North 4 x 4",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d770bcca8bec.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id13193669.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id13193669.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3024,14 +3470,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass North 4 x 4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Maple Ridge",
       "vin": "3C4NJDBNXTT185832",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Northin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/ac164f60290d.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id14190408.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id14190408.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3040,14 +3489,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Maple Ridge",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Maple Ridge",
       "vin": "3C4NJDBN9TT203463",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Northin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/1a2bdcf8789d.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id14190409.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id14190409.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3056,14 +3508,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Maple Ridge",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Maple Ridge",
       "vin": "3C4NJDBN7TT203462",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Northin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/15edbd45fd8d.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id14190410.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Compass-id14190410.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3072,8 +3527,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Maple Ridge",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -3089,7 +3546,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -3105,7 +3564,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -3121,7 +3582,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer ",
@@ -3137,13 +3600,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer L ",
       "vin": "1C4SJSBP5TS193735",
       "stock": 14105665,
       "color": "Black",
+      "trim": "L",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/01a5322d98e0.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3152,14 +3618,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer L",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sportin Maple Ridge",
       "vin": "1C4PJXAN9TW297804",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sportin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/fb5c2f590673.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Wrangler-id14190415.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Wrangler-id14190415.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3168,14 +3637,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Sportin Maple Ridge",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sportin Maple Ridge",
       "vin": "1C4PJXAN0TW280096",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sportin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/31df497abacc.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Wrangler-id14190416.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-Jeep-Wrangler-id14190416.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3184,8 +3656,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Sportin Maple Ridge",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -3201,7 +3675,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -3217,7 +3693,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks ",
@@ -3232,7 +3710,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks ",
@@ -3247,7 +3727,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -3263,7 +3745,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 2500 ",
@@ -3279,7 +3763,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -3295,13 +3781,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 5500 Chassis ",
       "vin": "3C7WRNBL4TG211015",
       "stock": 13267273,
       "color": "Red",
+      "trim": "Chassis",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/ae9f175c9ae9.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-5500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3310,14 +3799,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "5500 Chassis",
-      "condition": "used"
+      "model": "5500",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVBG0TE178343",
       "stock": 13374768,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/91ef6092f728.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3326,8 +3818,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -3343,7 +3837,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 2500 ",
@@ -3359,7 +3855,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -3375,13 +3873,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 5500 Chassis ",
       "vin": "3C7WRNBL4TG211015",
       "stock": 13267273,
       "color": "Red",
+      "trim": "Chassis",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/ae9f175c9ae9.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-5500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3390,14 +3891,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "5500 Chassis",
-      "condition": "new"
+      "model": "5500",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVBG0TE178343",
       "stock": 13374768,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/91ef6092f728.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3406,8 +3910,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -3423,7 +3929,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 2500 ",
@@ -3439,7 +3947,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -3455,13 +3965,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 5500 Chassis ",
       "vin": "3C7WRNBL4TG211015",
       "stock": 13267273,
       "color": "Red",
+      "trim": "Chassis",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/4a3054912873.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-RAM-5500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-RAM-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3470,14 +3983,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "5500 Chassis",
-      "condition": "new"
+      "model": "5500",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVBG0TE178343",
       "stock": 13374768,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/43ec169aaee8.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2026-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2026-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3486,12 +4002,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 3500 Chassisin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/96a115a98de9.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-3500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-3500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3500,12 +4019,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "3500 Chassisin Maple Ridge",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 4500 Chassisin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/352a855934d1.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-4500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-4500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3514,12 +4036,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "4500 Chassisin Maple Ridge",
-      "condition": "used"
+      "model": "4500",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Cargo Van EVin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Van EVin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/38c50e7a37bc.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cargo_Van_EV.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cargo_Van_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3528,12 +4053,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Cargo Van EVin Maple Ridge",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Cutawayin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Cutawayin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/c0a01c249ec6.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cutaway.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cutaway.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3542,12 +4070,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Cutawayin Maple Ridge",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Window Vanin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Window Vanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/065acb7050c9.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Window_Van.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Window_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3556,12 +4087,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Window Vanin Maple Ridge",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 3500 Chassisin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/96a115a98de9.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-3500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-3500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3570,12 +4104,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "3500 Chassisin Maple Ridge",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 4500 Chassisin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/352a855934d1.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-4500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-4500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3584,12 +4121,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "4500 Chassisin Maple Ridge",
-      "condition": "new"
+      "model": "4500",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Cargo Van EVin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Van EVin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/38c50e7a37bc.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cargo_Van_EV.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cargo_Van_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3598,12 +4138,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Cargo Van EVin Maple Ridge",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Cutawayin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Cutawayin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/c0a01c249ec6.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cutaway.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Cutaway.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3612,12 +4155,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Cutawayin Maple Ridge",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Ram ProMaster Window Vanin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Window Vanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/065acb7050c9.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Window_Van.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2026-Ram-ProMaster_Window_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3626,8 +4172,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ram",
-      "model": "ProMaster Window Vanin Maple Ridge",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravanin Maple Ridge",
@@ -3641,7 +4189,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravanin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -3657,7 +4207,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravanin Maple Ridge",
@@ -3671,7 +4223,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravanin Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -3687,13 +4241,16 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica Selectin Maple Ridge",
       "vin": "2C4RC1BG2VR565328",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Selectin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/1df686ca44ec.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2027-Chrysler-Pacifica-id13885872.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2027-Chrysler-Pacifica-id13885872.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3702,14 +4259,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chrysler",
-      "model": "Pacifica Selectin Maple Ridge",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica Selectin Maple Ridge",
       "vin": "2C4RC1BG0VR565327",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Selectin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/8d20c748fcd3.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2027-Chrysler-Pacifica-id13891417.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2027-Chrysler-Pacifica-id13891417.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3718,8 +4278,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chrysler",
-      "model": "Pacifica Selectin Maple Ridge",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -3735,7 +4297,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Maple Ridge",
@@ -3749,7 +4313,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durangoin Maple Ridge",
@@ -3763,7 +4329,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durangoin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Maple Ridge",
@@ -3777,7 +4345,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durangoin Maple Ridge",
@@ -3791,7 +4361,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durangoin Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durango ",
@@ -3807,7 +4379,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Maple Ridge",
@@ -3821,7 +4395,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Maple Ridge",
@@ -3835,7 +4411,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Maple Ridge",
@@ -3849,7 +4427,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Maple Ridge",
@@ -3863,7 +4443,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee L ",
@@ -3879,7 +4461,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Maple Ridge",
@@ -3893,11 +4477,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Lin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/32a413978af5.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3906,8 +4493,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Maple Ridge",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wrangler ",
@@ -3923,7 +4512,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Maple Ridge",
@@ -3937,7 +4528,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Maple Ridge",
@@ -3951,7 +4544,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Maple Ridge",
@@ -3965,7 +4560,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Maple Ridge",
@@ -3979,7 +4576,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee L ",
@@ -3995,7 +4594,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Maple Ridge",
@@ -4009,11 +4610,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Lin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/32a413978af5.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4022,8 +4626,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Maple Ridge",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wrangler ",
@@ -4039,7 +4645,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee L ",
@@ -4055,7 +4663,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wrangler ",
@@ -4071,7 +4681,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -4087,7 +4699,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -4103,13 +4717,16 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVNG8VE551045",
       "stock": 14244650,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/42ace99afa0f.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4118,8 +4735,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -4135,7 +4754,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -4151,13 +4772,16 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVNG8VE551045",
       "stock": 14244650,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/42ace99afa0f.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4166,8 +4790,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -4183,7 +4809,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -4199,13 +4827,16 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVNG8VE551045",
       "stock": 14244650,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/91870cc38c75.html",
       "source_url": "https://www.mapleridgechrysler.com/new/inventory/2027-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/inventory/2027-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4214,8 +4845,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 2500in Maple Ridge",
@@ -4229,11 +4862,14 @@
       "year": 2027,
       "make": "Ram",
       "model": "2500in Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 3500 Chassisin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/d7c26e2474de.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-3500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-3500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4242,12 +4878,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "3500 Chassisin Maple Ridge",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 4500 Chassisin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/d8ea9959c184.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-4500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-4500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4256,12 +4895,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "4500 Chassisin Maple Ridge",
-      "condition": "used"
+      "model": "4500",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 5500 Chassisin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/d3ffcb49d1d5.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-5500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4270,12 +4912,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "5500 Chassisin Maple Ridge",
-      "condition": "used"
+      "model": "5500",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram ProMaster Cutawayin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Cutawayin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/e3cbf18ab689.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Cutaway.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Cutaway.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4284,12 +4929,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "ProMaster Cutawayin Maple Ridge",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram ProMaster Window Vanin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Window Vanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/079594eb1d53.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Window_Van.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Window_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4298,8 +4946,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "ProMaster Window Vanin Maple Ridge",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 2500in Maple Ridge",
@@ -4313,11 +4963,14 @@
       "year": 2027,
       "make": "Ram",
       "model": "2500in Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 3500 Chassisin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d7c26e2474de.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-3500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-3500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4326,12 +4979,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "3500 Chassisin Maple Ridge",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 4500 Chassisin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d8ea9959c184.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-4500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-4500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4340,12 +4996,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "4500 Chassisin Maple Ridge",
-      "condition": "new"
+      "model": "4500",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 5500 Chassisin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d3ffcb49d1d5.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-5500_Chassis.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4354,12 +5013,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "5500 Chassisin Maple Ridge",
-      "condition": "new"
+      "model": "5500",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram ProMaster Cutawayin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Cutawayin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/e3cbf18ab689.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Cutaway.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Cutaway.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4368,12 +5030,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "ProMaster Cutawayin Maple Ridge",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Ram ProMaster Window Vanin Maple Ridge",
       "stock": "NUMBER",
+      "trim": "Window Vanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/079594eb1d53.html",
       "source_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Window_Van.html",
       "dealer_url": "https://www.mapleridgechrysler.com/new/2027-Ram-ProMaster_Window_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4382,8 +5047,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ram",
-      "model": "ProMaster Window Vanin Maple Ridge",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     }
   ]
 }
