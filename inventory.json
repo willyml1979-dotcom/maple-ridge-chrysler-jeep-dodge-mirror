@@ -1,6 +1,6 @@
 {
   "dealership": "Maple Ridge Chrysler Jeep Dodge",
-  "generated_at": "2026-10-26T01:28:13",
+  "generated_at": "2026-10-26T01:32:08",
   "vehicle_count": 264,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2515,13 +2515,13 @@
     },
     {
       "name": "2027 Dodge Durango ",
-      "vin": "1C4SDJCT7VC572150",
+      "vin": "1C4SDJCT3VC589091",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/ce3e0a0d3020.html",
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 79370.0,
+      "price": 71730.0,
       "price_currency": "CAD"
     },
     {
