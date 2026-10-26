@@ -1,10 +1,18 @@
 {
   "dealership": "Maple Ridge Chrysler Jeep Dodge",
-  "generated_at": "2026-10-26T09:56:42",
+  "generated_at": "2026-10-26T10:01:07",
   "vehicle_count": 264,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Jeep Cherokee Overlandin Maple Ridge",
+      "vin": "3C4PJMC21TT261340",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/0761d9124b05.html",
+      "condition": "new",
+      "price": 57580.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Jeep Cherokee Overlandin Maple Ridge",
       "vin": "3C4PJMC22TT262724",
@@ -1955,17 +1963,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Overlandin Maple Ridge",
-      "vin": "3C4PJMC21TT261340",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/0761d9124b05.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 57580.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB22TT273501",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/db0492e87ce2.html",
@@ -2705,7 +2702,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "Promaster",
-      "condition": "new"
+      "condition": "new",
+      "price": 74335.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 RAM 1500 ",
