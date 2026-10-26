@@ -1,6 +1,6 @@
 {
   "dealership": "Maple Ridge Chrysler Jeep Dodge",
-  "generated_at": "2026-10-26T01:32:08",
+  "generated_at": "2026-10-26T09:56:42",
   "vehicle_count": 264,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -652,7 +652,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 41087.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2022 Jeep Grand Cherokee ",
@@ -799,7 +801,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 38796.0,
+      "price": 36996.0,
       "price_currency": "CAD"
     },
     {
@@ -821,7 +823,7 @@
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 38987.0,
+      "price": 38096.0,
       "price_currency": "CAD"
     },
     {
@@ -843,7 +845,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 45387.0,
+      "price": 43989.0,
       "price_currency": "CAD"
     },
     {
@@ -893,13 +895,13 @@
     },
     {
       "name": "2023 RAM 1500 Classic ",
-      "vin": "3C6RR7KG1PG681671",
+      "vin": "3C6RR7LG8PG678846",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/1e1dd170a567.html",
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 36987.0,
+      "price": 35087.0,
       "price_currency": "CAD"
     },
     {
@@ -921,7 +923,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "used",
-      "price": 37387.0,
+      "price": 37085.0,
       "price_currency": "CAD"
     },
     {
@@ -985,7 +987,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 45999.0,
+      "price": 45796.0,
       "price_currency": "CAD"
     },
     {
@@ -1007,7 +1009,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 46887.0,
+      "price": 46358.0,
       "price_currency": "CAD"
     },
     {
@@ -1027,7 +1029,7 @@
       "make": "Dodge",
       "model": "Hornet",
       "condition": "used",
-      "price": 31787.0,
+      "price": 27998.0,
       "price_currency": "CAD"
     },
     {
@@ -1082,7 +1084,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 21087.0,
+      "price": 20848.0,
       "price_currency": "CAD"
     },
     {
@@ -1102,7 +1104,7 @@
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 26687.0,
+      "price": 26096.0,
       "price_currency": "CAD"
     },
     {
@@ -1122,7 +1124,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 37987.0,
+      "price": 37049.0,
       "price_currency": "CAD"
     },
     {
@@ -1155,7 +1157,7 @@
       "make": "Kia",
       "model": "Niro PHEV",
       "condition": "used",
-      "price": 29387.0,
+      "price": 28875.0,
       "price_currency": "CAD"
     },
     {
