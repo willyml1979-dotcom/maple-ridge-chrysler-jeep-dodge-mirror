@@ -1,6 +1,6 @@
 {
   "dealership": "Maple Ridge Chrysler Jeep Dodge",
-  "generated_at": "2026-10-25T16:04:55",
+  "generated_at": "2026-10-26T01:28:13",
   "vehicle_count": 264,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -540,7 +540,7 @@
       "make": "Dodge",
       "model": "Challenger",
       "condition": "used",
-      "price": 88599.0,
+      "price": 87996.0,
       "price_currency": "CAD"
     },
     {
@@ -551,7 +551,7 @@
       "make": "Ford",
       "model": "Edge",
       "condition": "used",
-      "price": 26387.0,
+      "price": 25593.0,
       "price_currency": "CAD"
     },
     {
@@ -562,7 +562,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 35996.0,
+      "price": 35862.0,
       "price_currency": "CAD"
     },
     {
@@ -602,7 +602,7 @@
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 23787.0,
+      "price": 23268.0,
       "price_currency": "CAD"
     },
     {
@@ -622,7 +622,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 33687.0,
+      "price": 33087.0,
       "price_currency": "CAD"
     },
     {
@@ -642,7 +642,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 33587.0,
+      "price": 30482.0,
       "price_currency": "CAD"
     },
     {
@@ -667,13 +667,13 @@
     },
     {
       "name": "2022 RAM 1500 ",
-      "vin": "1C6SRFJT1NN146709",
+      "vin": "1C6SRFHT4NN170704",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/0bbe9c57c98e.html",
       "year": 2022,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 41087.0,
+      "price": 45968.0,
       "price_currency": "CAD"
     },
     {
@@ -715,7 +715,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 24987.0,
+      "price": 23996.0,
       "price_currency": "CAD"
     },
     {
@@ -735,7 +735,7 @@
       "make": "Dodge",
       "model": "Hornet",
       "condition": "used",
-      "price": 22887.0,
+      "price": 21098.0,
       "price_currency": "CAD"
     },
     {
@@ -779,7 +779,7 @@
       "make": "Jeep",
       "model": "Gladiator",
       "condition": "used",
-      "price": 38987.0,
+      "price": 38086.0,
       "price_currency": "CAD"
     },
     {
