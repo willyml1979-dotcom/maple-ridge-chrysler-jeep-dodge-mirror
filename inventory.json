@@ -1,14 +1,50 @@
 {
   "dealership": "Maple Ridge Chrysler Jeep Dodge",
-  "generated_at": "2026-11-17T13:20:47",
-  "vehicle_count": 273,
+  "generated_at": "2026-11-18T02:59:06",
+  "vehicle_count": 276,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
+      "name": "Dodge Challenger 2016 for salein Maple Ridge",
+      "vin": "2C3CDZC95GH358706",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/d64dce5a7a71.html",
+      "condition": "used"
+    },
+    {
       "name": "GMC Canyon 2017 for salein Maple Ridge",
       "vin": "1GTG6CEN8H1224013",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/f81e13b01022.html",
+      "condition": "used"
+    },
+    {
+      "name": "Jeep Wrangler 2017 for salein Maple Ridge",
+      "vin": "1C4BJWEG7HL628257",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/33883a655829.html",
+      "condition": "used"
+    },
+    {
+      "name": "Kia Sportage 2017 for salein Maple Ridge",
+      "vin": "KNDPRCA61H7260144",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/20fcdf0444ba.html",
+      "condition": "used"
+    },
+    {
+      "name": "RAM 1500 2017 for salein Maple Ridge",
+      "vin": "1C6RR7MT2HS716979",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/5fd69eebf709.html",
+      "condition": "used"
+    },
+    {
+      "name": "Audi Q5 2018 for salein Maple Ridge",
+      "vin": "WA1ANAFY7J2003521",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/2b29f7154e6f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Ford EcoSport 2018 for salein Maple Ridge",
+      "vin": "MAJ3P1TE6JC240262",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/87360239ad01.html",
       "condition": "used"
     },
     {
@@ -18,15 +54,21 @@
       "condition": "used"
     },
     {
+      "name": "Nissan Murano 2018 for salein Maple Ridge",
+      "vin": "5N1AZ2MHXJN173191",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/2babba69e5c6.html",
+      "condition": "used"
+    },
+    {
       "name": "Toyota Tacoma 2018 for salein Maple Ridge",
       "vin": "5TFDZ5BN6JX034952",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/7cc768c5a8c0.html",
       "condition": "used"
     },
     {
-      "name": "Porsche Cayenne 2019 for salein Maple Ridge",
-      "vin": "WP1AA2AY3KDA12705",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/8bd667544636.html",
+      "name": "Acura RDX 2019 for salein Maple Ridge",
+      "vin": "5J8TC2H36KL801596",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/d640677455db.html",
       "condition": "used"
     },
     {
@@ -51,6 +93,18 @@
       "name": "Jeep Grand Cherokee 2020 for salein Maple Ridge",
       "vin": "1C4RJFDJ2LC376941",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/bc33c87fee7f.html",
+      "condition": "used"
+    },
+    {
+      "name": "RAM 1500 Classic 2020 for salein Maple Ridge",
+      "vin": "3C6RR7KT6LG265008",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/f675cc93a5a9.html",
+      "condition": "used"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2021 for salein Maple Ridge",
+      "vin": "1C4RJFBG1MC540432",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/ed5851cc122a.html",
       "condition": "used"
     },
     {
@@ -90,9 +144,21 @@
       "condition": "used"
     },
     {
+      "name": "Chevrolet Trax 2024 for salein Maple Ridge",
+      "vin": "KL77LHE27RC024755",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/ddb4403db7a5.html",
+      "condition": "used"
+    },
+    {
       "name": "GMC Sierra 1500 2024 for salein Maple Ridge",
       "vin": "3GTUUCED5RG396941",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/0cce761680ec.html",
+      "condition": "used"
+    },
+    {
+      "name": "Kia Sorento 2024 for salein Maple Ridge",
+      "vin": "5XYRHDJF4RG287134",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/8160131084a8.html",
       "condition": "used"
     },
     {
@@ -105,6 +171,12 @@
       "name": "Mitsubishi RVR 2024 for salein Maple Ridge",
       "vin": "JA4AJVAW2RU605459",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/229cf18162a2.html",
+      "condition": "used"
+    },
+    {
+      "name": "Nissan Rogue 2024 for salein Maple Ridge",
+      "vin": "JN8BT3CB8RW182981",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/ee327b648d78.html",
       "condition": "used"
     },
     {
@@ -192,6 +264,12 @@
       "condition": "used"
     },
     {
+      "name": "Mazda CX-5 2025 for salein Maple Ridge",
+      "vin": "JM3KFBCL4S0558985",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/411b52cfa517.html",
+      "condition": "used"
+    },
+    {
       "name": "Nissan Kicks Play 2025 for salein Maple Ridge",
       "vin": "3N1CP5CV4SL476550",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/dfec4df43073.html",
@@ -207,6 +285,30 @@
       "name": "Nissan Versa 2025 for salein Maple Ridge",
       "vin": "3N1CN8EV6SL863265",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/fec0c94430f3.html",
+      "condition": "used"
+    },
+    {
+      "name": "Volkswagen Atlas Cross Sport 2025 for salein Maple Ridge",
+      "vin": "1V2LE2CA8SC222560",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/0c1886c38c28.html",
+      "condition": "used"
+    },
+    {
+      "name": "Cadillac CT5 2026 for salein Maple Ridge",
+      "vin": "1G6DR5RW3T0111144",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/3b86019f1b86.html",
+      "condition": "used"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2026 for salein Maple Ridge",
+      "vin": "2GCUKDED0T1129346",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/143d8bb063b4.html",
+      "condition": "used"
+    },
+    {
+      "name": "Jeep Wrangler 2026 for salein Maple Ridge",
+      "vin": "1C4PJXDG3TW175808",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/062602dd74c0.html",
       "condition": "used"
     },
     {
@@ -250,6 +352,15 @@
       "condition": "used"
     },
     {
+      "name": "2016 Dodge Challenger SRT Hellcatin Maple Ridge",
+      "vin": "2C3CDZC95GH358706",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/75c9baf9af32.html",
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Challenger",
+      "condition": "used"
+    },
+    {
       "name": "2017 Jeep Wrangler Sahara | 3.6L V6 | AC | NAVIGATION | TPMSin Maple Ridge",
       "vin": "1C4BJWEG7HL628257",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/c114c058e828.html",
@@ -257,17 +368,6 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used"
-    },
-    {
-      "name": "2017 Jeep Wrangler ",
-      "vin": "1C4BJWEG7HL628257",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/33883a655829.html",
-      "year": 2017,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 25996.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2017 Jeep Wrangler ",
@@ -281,17 +381,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Kia Sportage ",
-      "vin": "KNDPRCA61H7260144",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/20fcdf0444ba.html",
-      "year": 2017,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 16996.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 RAM 1500 Sportin Maple Ridge",
       "vin": "1C6RR7MT2HS716979",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/89b07eb3b03c.html",
@@ -299,28 +388,6 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used"
-    },
-    {
-      "name": "2017 RAM 1500 ",
-      "vin": "1C6RR7FT9HS734747",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/5fd69eebf709.html",
-      "year": 2017,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 17487.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Audi Q5 ",
-      "vin": "WA1ANAFY7J2003521",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/2b29f7154e6f.html",
-      "year": 2018,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "used",
-      "price": 16995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2018 Dodge Challenger SXT Plusin Maple Ridge",
@@ -340,28 +407,6 @@
       "model": "Challenger",
       "condition": "used",
       "price": 27098.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Ford EcoSport ",
-      "vin": "MAJ3P1TE6JC240262",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/87360239ad01.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "EcoSport",
-      "condition": "used",
-      "price": 9848.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Nissan Murano ",
-      "vin": "5N1AZ2MHXJN173191",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/2babba69e5c6.html",
-      "year": 2018,
-      "make": "Nissan",
-      "model": "Murano",
-      "condition": "used",
-      "price": 17097.0,
       "price_currency": "CAD"
     },
     {
@@ -476,6 +521,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 RAM 1500 Classic Expressin Maple Ridge",
+      "vin": "3C6RR7KT6LG265008",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/5717b3ed2089.html",
+      "year": 2020,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "condition": "used"
+    },
+    {
       "name": "2020 RAM 1500 ",
       "vin": "1C6SRFLM2LN205446",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/e82819cf6e89.html",
@@ -538,6 +592,15 @@
       "condition": "used",
       "price": 38586.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Jeep Grand Cherokee Limitedin Maple Ridge",
+      "vin": "1C4RJFBG1MC540432",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/007c33332ca4.html",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -669,6 +732,15 @@
       "name": "2022 Jeep Compass Altitudein Maple Ridge",
       "vin": "3C4NJDFB8NT178963",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/3a9624c4cba9.html",
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used"
+    },
+    {
+      "name": "2022 Jeep Compass Limitedin Maple Ridge",
+      "vin": "3C4NJDCB2NT237641",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/c2bef1a1d66c.html",
       "year": 2022,
       "make": "Jeep",
       "model": "Compass",
@@ -864,24 +936,6 @@
     },
     {
       "name": "2023 RAM 1500 Classic SLTin Maple Ridge",
-      "vin": "3C6RR7LT8PG666287",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/c6c84ba97624.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used"
-    },
-    {
-      "name": "2023 RAM 1500 Classic SLTin Maple Ridge",
-      "vin": "3C6RR7LT5PG678543",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/3222761ca05e.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used"
-    },
-    {
-      "name": "2023 RAM 1500 Classic SLTin Maple Ridge",
       "vin": "3C6RR7LGXPG679111",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/d4218d7bf09e.html",
       "year": 2023,
@@ -893,24 +947,6 @@
       "name": "2023 RAM 1500 Classic SLTin Maple Ridge",
       "vin": "3C6RR7LG1PG680454",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/daba0cfeca1a.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used"
-    },
-    {
-      "name": "2023 RAM 1500 Classic SLTin Maple Ridge",
-      "vin": "3C6RR7LT4PG678727",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/0110ed757a32.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used"
-    },
-    {
-      "name": "2023 RAM 1500 Classic SLTin Maple Ridge",
-      "vin": "3C6RR7LT2PG678774",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/8eb49b49d5f7.html",
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
@@ -976,17 +1012,6 @@
       "model": "Envision",
       "condition": "new",
       "price": 37085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Chevrolet Trax ",
-      "vin": "KL77LHE27RC024755",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/ddb4403db7a5.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 24399.0,
       "price_currency": "CAD"
     },
     {
@@ -1127,6 +1152,15 @@
       "condition": "used"
     },
     {
+      "name": "2024 Jeep Wrangler Saharain Maple Ridge",
+      "vin": "1C4PJXENXRW173690",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/4fe79b4d5157.html",
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used"
+    },
+    {
       "name": "2024 Jeep Wrangler ",
       "vin": "1C4PJXAN2RW140169",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/162a0b754644.html",
@@ -1157,28 +1191,6 @@
       "model": "Forte",
       "condition": "used",
       "price": 21085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Sorento ",
-      "vin": "5XYRHDJF4RG287134",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/8160131084a8.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 39087.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Rogue ",
-      "vin": "JN8BT3CB8RW182981",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/ee327b648d78.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 33987.0,
       "price_currency": "CAD"
     },
     {
@@ -1224,15 +1236,6 @@
       "condition": "new",
       "price": 20996.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chrysler Pacifica Limitedin Maple Ridge",
-      "vin": "2C4RC1GG1SR570606",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/bf7ae7c36d2b.html",
-      "year": 2025,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used"
     },
     {
       "name": "2025 Chrysler Pacifica ",
@@ -1354,17 +1357,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-5 ",
-      "vin": "JM3KFBCL4S0558985",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/411b52cfa517.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 30067.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mitsubishi Outlander ",
       "vin": "JA4J4UA80SZ626886",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/4186320c1927.html",
@@ -1398,17 +1390,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2LE2CA8SC222560",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/0c1886c38c28.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "used",
-      "price": 38794.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Jetta ",
       "vin": "3VWEX7BU1SM087253",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/96018d7fd219.html",
@@ -1439,28 +1420,6 @@
       "model": "Q7",
       "condition": "new",
       "price": 58086.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Cadillac CT5 ",
-      "vin": "1G6DR5RW3T0111144",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/3b86019f1b86.html",
-      "year": 2026,
-      "make": "Cadillac",
-      "model": "CT5",
-      "condition": "used",
-      "price": 77987.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 ",
-      "vin": "2GCUKDED0T1129346",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/143d8bb063b4.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 51587.0,
       "price_currency": "CAD"
     },
     {
@@ -1558,17 +1517,6 @@
       "model": "Palisade",
       "condition": "used",
       "price": 50796.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler ",
-      "vin": "1C4PJXDG3TW175808",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/used/062602dd74c0.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 46687.0,
       "price_currency": "CAD"
     },
     {
