@@ -1,6 +1,6 @@
 {
   "dealership": "Maple Ridge Chrysler Jeep Dodge",
-  "generated_at": "2026-11-18T02:59:06",
+  "generated_at": "2026-11-18T03:07:41",
   "vehicle_count": 276,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -323,6 +323,22 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/01d4141aa5c7.html",
       "condition": "new",
       "price": 68685.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2026 for salein Maple Ridge",
+      "vin": "3C4PJMB26TT228237",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/f666b2df846b.html",
+      "condition": "new",
+      "price": 46935.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Compass 2026 for salein Maple Ridge",
+      "vin": "3C4NJDAN1TT153238",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/990b47e9855d.html",
+      "condition": "new",
+      "price": 32890.0,
       "price_currency": "CAD"
     },
     {
@@ -1803,18 +1819,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee ",
-      "vin": "3C4PJMB26TT228237",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/f666b2df846b.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 47685.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport 4 x 4in Maple Ridge",
+      "name": "New 2026 Jeep Compass Sport 4 x 4in Maple Ridge",
       "vin": "3C4NJDAN3TT153242",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/a20b5dd3d437.html",
       "year": 2026,
@@ -1825,14 +1830,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Sport 4x4in Maple Ridge",
+      "name": "New 2026 Jeep Compass Sport 4x4in Maple Ridge",
       "vin": "3C4NJDAN1TT153238",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/77be0a330911.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 34890.0,
+      "price": 32890.0,
       "price_currency": "CAD"
     },
     {
@@ -1847,36 +1852,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Sport 4 x 4in Maple Ridge",
+      "name": "New 2026 Jeep Compass Sport 4 x 4in Maple Ridge",
       "vin": "3C4NJDAN9TT153794",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/35fc32008dab.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 34990.0,
+      "price": 32990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Sport 4 x 4in Maple Ridge",
+      "name": "New 2026 Jeep Compass Sport 4 x 4in Maple Ridge",
       "vin": "3C4NJDAN3TT161339",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/14edf5d4e771.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 34990.0,
+      "price": 32990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Sport 4x4in Maple Ridge",
+      "name": "New 2026 Jeep Compass Sport 4x4in Maple Ridge",
       "vin": "3C4NJDAN4TT153234",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/9d0cc6d24c85.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 34990.0,
+      "price": 32990.0,
       "price_currency": "CAD"
     },
     {
@@ -1891,80 +1896,69 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Sport 4 x 4in Maple Ridge",
+      "name": "New 2026 Jeep Compass Sport 4 x 4in Maple Ridge",
       "vin": "3C4NJDAN5TT153243",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/072c6a056027.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 34990.0,
+      "price": 32990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North 4 x 4 | 0% Financing OACin Maple Ridge",
+      "name": "New 2026 Jeep Compass North 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDBN0TT182955",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/f20f13c9a464.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 41185.0,
+      "price": 37685.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass North 4 x 4 | 0% Financing OACin Maple Ridge",
+      "name": "New 2026 Jeep Compass North 4 x 4 | 0% Financing OACin Maple Ridge",
       "vin": "3C4NJDBN4TT182960",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d770bcca8bec.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 43675.0,
+      "price": 40175.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Maple Ridge",
+      "name": "New 2026 Jeep Compass Northin Maple Ridge",
       "vin": "3C4NJDBNXTT185832",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/ac164f60290d.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 42580.0,
+      "price": 39080.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Maple Ridge",
+      "name": "New 2026 Jeep Compass Northin Maple Ridge",
       "vin": "3C4NJDBN9TT203463",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/1a2bdcf8789d.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 41190.0,
+      "price": 37690.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Maple Ridge",
+      "name": "New 2026 Jeep Compass Northin Maple Ridge",
       "vin": "3C4NJDBN7TT203462",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/15edbd45fd8d.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 46420.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass ",
-      "vin": "3C4NJDAN1TT153787",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/990b47e9855d.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34495.0,
+      "price": 42920.0,
       "price_currency": "CAD"
     },
     {
