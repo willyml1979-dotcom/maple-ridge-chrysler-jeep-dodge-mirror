@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Chrysler Jeep Dodge",
-  "generated_at": "2026-11-18T11:36:46",
-  "vehicle_count": 273,
+  "generated_at": "2026-11-18T11:46:35",
+  "vehicle_count": 271,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -390,11 +390,83 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Gladiator 2026 for salein Maple Ridge",
+      "vin": "1C6PJTAG7TL174411",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/551d48f00873.html",
+      "condition": "new",
+      "price": 56995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Wagoneer 2026 for salein Maple Ridge",
+      "vin": "1C4SJVEP1TS178212",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d270b2657798.html",
+      "condition": "new",
+      "price": 121210.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep 2026 for salein Maple Ridge",
+      "vin": "3C4NJDAN1TT153238",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/01a5322d98e0.html",
+      "condition": "new",
+      "price": 32890.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Recon 2026 for salein Maple Ridge",
       "vin": "3C4RJAAK6TT275891",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/88c098e66dc6.html",
       "condition": "new",
       "price": 95270.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2026 for salein Maple Ridge",
+      "vin": "1C4PJXAN0TW280096",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d22cbca40253.html",
+      "condition": "new",
+      "price": 40085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2026 for salein Maple Ridge",
+      "vin": "3C6RRFGG5T4166591",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/a27886da8792.html",
+      "condition": "new",
+      "price": 58790.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2026 for salein Maple Ridge",
+      "vin": "3C6TR5EJ9TG335962",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/6261aa675afc.html",
+      "condition": "new",
+      "price": 96995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2026 for salein Maple Ridge",
+      "vin": "3C63R3SL0TG251782",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/07e36e08afaa.html",
+      "condition": "new",
+      "price": 107995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 5500 Chassis 2026 for salein Maple Ridge",
+      "vin": "3C7WRNBL4TG211015",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/4a3054912873.html",
+      "condition": "new",
+      "price": 87995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM ProMaster Cargo Van 2026 for salein Maple Ridge",
+      "vin": "3C6LRVBG0TE178343",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/43ec169aaee8.html",
+      "condition": "new",
+      "price": 59995.0,
       "price_currency": "CAD"
     },
     {
@@ -1768,17 +1840,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Sport 4 x 4 |in Maple Ridge",
-      "vin": "3C4NJDAN1TT153787",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/a3a34c7df276.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Jeep Compass Sport 4 x 4in Maple Ridge",
       "vin": "3C4NJDAN9TT153794",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/35fc32008dab.html",
@@ -1809,17 +1870,6 @@
       "model": "Compass",
       "condition": "new",
       "price": 32990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport 4 x 4in Maple Ridge",
-      "vin": "3C4NJDANXTT161340",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/7f39278f5237.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34990.0,
       "price_currency": "CAD"
     },
     {
@@ -1889,39 +1939,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Gladiator ",
-      "vin": "1C6PJTAG7TL174411",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/551d48f00873.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "new",
-      "price": 59995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Wagoneer ",
-      "vin": "1C4SJVBP1TS193734",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d270b2657798.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Wagoneer",
-      "condition": "new",
-      "price": 102480.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass ",
-      "vin": "3C4NJDAN1TT153787",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/01a5322d98e0.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Jeep Wrangler Sport Sin Maple Ridge",
       "vin": "1C4PJXDG1TW174026",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d9cdd4614483.html",
@@ -1988,36 +2005,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Sportin Maple Ridge",
+      "name": "New 2026 Jeep Wrangler Sportin Maple Ridge",
       "vin": "1C4PJXAN9TW297804",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/fb5c2f590673.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 47080.0,
+      "price": 40580.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Sportin Maple Ridge",
+      "name": "New 2026 Jeep Wrangler Sportin Maple Ridge",
       "vin": "1C4PJXAN0TW280096",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/31df497abacc.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 46585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler ",
-      "vin": "1C4PJXAN0TW280096",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/d22cbca40253.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 46585.0,
+      "price": 40085.0,
       "price_currency": "CAD"
     },
     {
@@ -2118,61 +2124,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 ",
-      "vin": "1C6RRFCG3TN405082",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/a27886da8792.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 59140.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 2500 ",
-      "vin": "3C6TR5EJ9TG335962",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/6261aa675afc.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "new",
-      "price": 96995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 3500 ",
-      "vin": "3C63R3HL5TG214136",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/07e36e08afaa.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 80995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 5500 Chassis ",
-      "vin": "3C7WRNBL4TG211015",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/4a3054912873.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "5500",
-      "condition": "new",
-      "price": 87995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM ProMaster Cargo Van ",
-      "vin": "3C6LRVBG0TE178343",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/43ec169aaee8.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "new",
-      "price": 59995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ram 3500 Chassisin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/96a115a98de9.html",
       "year": 2026,
@@ -2255,7 +2206,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Pacifica Selectin Maple Ridge",
+      "name": "New 2027 Chrysler Pacifica Selectin Maple Ridge",
       "vin": "2C4RC1BG2VR565328",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chrysler-jeep-dodge-mirror/new/1df686ca44ec.html",
       "year": 2027,
